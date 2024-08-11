@@ -50,18 +50,10 @@ This is a Spring Boot application for an e-commerce platform. It provides a back
     ```bash
     mvn clean install
     ```
-    - Using Gradle:
-    ```bash
-    ./gradlew build
-    ```
 
 4. **Run the Application**
     ```bash
     mvn spring-boot:run
-    ```
-    or
-    ```bash
-    ./gradlew bootRun
     ```
 
 5. **Access the Application**
