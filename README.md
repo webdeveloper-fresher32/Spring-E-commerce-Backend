@@ -1,7 +1,3 @@
-Here's a template for a `README.md` file for your Spring Boot application. You can customize it as needed for your project.
-
----
-
 # E-Commerce Application
 
 ## Overview
@@ -134,6 +130,3 @@ Feel free to open issues or submit pull requests. For major changes, please open
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the content based on your project details and requirements.
