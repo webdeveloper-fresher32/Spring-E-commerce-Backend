@@ -20,7 +20,7 @@ This is a Spring Boot application for an e-commerce platform. It provides a back
 - **Spring Security**: For authentication and authorization.
 - **PostgreSQL**: Database for storing application data.
 - **Hibernate/JPA**: For object-relational mapping.
-- **Thymeleaf**: (Optional) For server-side rendering (if used).
+- **Lombak**: For Reducing boiler plate code.
 
 ## Prerequisites
 
