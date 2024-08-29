@@ -25,7 +25,7 @@ This is a Spring Boot application for an e-commerce platform. It provides a back
 ## Prerequisites
 
 - **Java 17** or later
-- **Maven** or **Gradle**
+- **Maven**
 - **PostgreSQL** Database
 
 ## Setup
